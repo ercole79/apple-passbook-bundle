@@ -14,7 +14,7 @@ Installation
 With [composer](http://packagist.org), add:
 
 ```bash
-$ composer require laulamanapps/apple-passbook-bundle
+$ composer require ercole79/apple-passbook-bundle
 ```
 
 Run Tests
@@ -265,6 +265,7 @@ Credits
 ---
 
 This package has been developed by [LauLaman][LauLaman].
+In this version I just add the compatibility with Symfony7
 
 [LauLamanAppsApplePassbookPackage]: https://github.com/LauLamanApps/apple-passbook
 [AppleDeveloperPortal]: https://developer.apple.com/account/resources/certificates/list
